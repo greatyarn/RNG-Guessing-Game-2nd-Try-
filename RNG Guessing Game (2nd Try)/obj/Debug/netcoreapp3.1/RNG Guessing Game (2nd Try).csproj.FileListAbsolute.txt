@@ -1,0 +1,13 @@
+C:\Users\user\Documents\OneDrive - University of Plymouth\Own Studies\RNG Guessing Game (2nd Try)\RNG Guessing Game (2nd Try)\bin\Debug\netcoreapp3.1\RNG Guessing Game (2nd Try).exe
+C:\Users\user\Documents\OneDrive - University of Plymouth\Own Studies\RNG Guessing Game (2nd Try)\RNG Guessing Game (2nd Try)\bin\Debug\netcoreapp3.1\RNG Guessing Game (2nd Try).deps.json
+C:\Users\user\Documents\OneDrive - University of Plymouth\Own Studies\RNG Guessing Game (2nd Try)\RNG Guessing Game (2nd Try)\bin\Debug\netcoreapp3.1\RNG Guessing Game (2nd Try).runtimeconfig.json
+C:\Users\user\Documents\OneDrive - University of Plymouth\Own Studies\RNG Guessing Game (2nd Try)\RNG Guessing Game (2nd Try)\bin\Debug\netcoreapp3.1\RNG Guessing Game (2nd Try).runtimeconfig.dev.json
+C:\Users\user\Documents\OneDrive - University of Plymouth\Own Studies\RNG Guessing Game (2nd Try)\RNG Guessing Game (2nd Try)\bin\Debug\netcoreapp3.1\RNG Guessing Game (2nd Try).dll
+C:\Users\user\Documents\OneDrive - University of Plymouth\Own Studies\RNG Guessing Game (2nd Try)\RNG Guessing Game (2nd Try)\bin\Debug\netcoreapp3.1\RNG Guessing Game (2nd Try).pdb
+C:\Users\user\Documents\OneDrive - University of Plymouth\Own Studies\RNG Guessing Game (2nd Try)\RNG Guessing Game (2nd Try)\obj\Debug\netcoreapp3.1\RNG Guessing Game (2nd Try).csprojAssemblyReference.cache
+C:\Users\user\Documents\OneDrive - University of Plymouth\Own Studies\RNG Guessing Game (2nd Try)\RNG Guessing Game (2nd Try)\obj\Debug\netcoreapp3.1\RNG Guessing Game (2nd Try).AssemblyInfoInputs.cache
+C:\Users\user\Documents\OneDrive - University of Plymouth\Own Studies\RNG Guessing Game (2nd Try)\RNG Guessing Game (2nd Try)\obj\Debug\netcoreapp3.1\RNG Guessing Game (2nd Try).AssemblyInfo.cs
+C:\Users\user\Documents\OneDrive - University of Plymouth\Own Studies\RNG Guessing Game (2nd Try)\RNG Guessing Game (2nd Try)\obj\Debug\netcoreapp3.1\RNG Guessing Game (2nd Try).csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\OneDrive - University of Plymouth\Own Studies\RNG Guessing Game (2nd Try)\RNG Guessing Game (2nd Try)\obj\Debug\netcoreapp3.1\RNG Guessing Game (2nd Try).dll
+C:\Users\user\Documents\OneDrive - University of Plymouth\Own Studies\RNG Guessing Game (2nd Try)\RNG Guessing Game (2nd Try)\obj\Debug\netcoreapp3.1\RNG Guessing Game (2nd Try).pdb
+C:\Users\user\Documents\OneDrive - University of Plymouth\Own Studies\RNG Guessing Game (2nd Try)\RNG Guessing Game (2nd Try)\obj\Debug\netcoreapp3.1\RNG Guessing Game (2nd Try).genruntimeconfig.cache

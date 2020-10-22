@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "RNG Guessing Game (2nd Try)/1.0.0": {
+        "runtime": {
+          "RNG Guessing Game (2nd Try).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RNG Guessing Game (2nd Try)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
