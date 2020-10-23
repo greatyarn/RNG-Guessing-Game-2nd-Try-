@@ -33,7 +33,7 @@ namespace RNG_Guessing_Game__2nd_Try_
                 numusercheck = Console.ReadLine();
                 
 
-                Console.WriteLine("Test Num " + num); //This is for checking what number the rng chose
+                //Console.WriteLine("Test Num " + num); //This is for checking what number the rng chose
                                 if (numusercheck == "1" || numusercheck == "2" || numusercheck == "3" || numusercheck == "4" || numusercheck == "5" || numusercheck == "6" || numusercheck == "7" || numusercheck == "8" || numusercheck == "9" || numusercheck == "10")
 
                 { numuser = Convert.ToInt32(numusercheck); //Converting number to integer
@@ -43,7 +43,7 @@ namespace RNG_Guessing_Game__2nd_Try_
                 else
 
                 {
-                    Console.WriteLine("Please choose a number from 0 - 10");
+                    Console.WriteLine("Please choose a number from 0 - 10"); //Ask user which number to choose from
                     
 
                     Start();
